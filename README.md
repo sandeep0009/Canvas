@@ -2,8 +2,8 @@
 
 **Technologies in this :**
 
-**1-Rect.js** for frontend development used React.js
-**2-Tailwind.css** for styling i had used Tailwind.css
+**1.Rect.js** for frontend development used React.js
+**2.Tailwind.css** for styling i had used Tailwind.css
 
 **Install Dependencies**
 
@@ -38,4 +38,4 @@
 
 ## Deployed link on vercel :-
 
-[vercel](https://6589c9d22473eb0ef187eb79--gilded-paprenjak-5b198f.netlify.app/)
+[Deployed link you can visit this site easily](https://6589c9d22473eb0ef187eb79--gilded-paprenjak-5b198f.netlify.app/)
