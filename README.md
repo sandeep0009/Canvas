@@ -2,8 +2,8 @@
 
 **Technologies in this :**
 
-**1.Rect.js** for frontend development used React.js
-**2.Tailwind.css** for styling i had used Tailwind.css
+**1.Rect.js** for frontend development used React.js .
+**2.Tailwind.css** for styling i had used Tailwind.css .
 
 **Install Dependencies**
 
